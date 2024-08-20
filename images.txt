@@ -1,1 +1,1 @@
-runcare/battery-historian:latest
+ubuntu22.04:latest
