@@ -1,1 +1,1 @@
-ubuntu22.04:latest
+ubuntu:22.04
