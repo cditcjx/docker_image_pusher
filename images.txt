@@ -1,1 +1,1 @@
-goharbor/harbor-portal:v2.3.0
+goharbor/redis-photon:v2.3.0
