@@ -1,1 +1,1 @@
-sonatype/nexus3:latest
+goharbor/prepare:v2.3.0
