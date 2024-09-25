@@ -1,1 +1,1 @@
-goharbor/redis-photon:v2.3.0
+goharbor/harbor-core:v2.3.0
