@@ -1,1 +1,1 @@
-goharbor/nginx-photon:v2.3.0
+sonatype/nexus3:3.70.2
