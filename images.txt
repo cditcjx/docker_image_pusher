@@ -1,1 +1,1 @@
-goharbor/harbor-core:v2.3.0
+goharbor/harbor-jobservice:v2.3.0
