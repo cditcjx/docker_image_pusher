@@ -1,1 +1,1 @@
-goharbor/prepare:v2.3.0
+goharbor/harbor-log:v2.3.0
