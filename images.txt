@@ -1,1 +1,1 @@
-go-scanner-worker:3.4.1
+ubuntu:latest
