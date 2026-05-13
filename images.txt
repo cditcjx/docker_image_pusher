@@ -1,1 +1,1 @@
-osixia/keepalived:stable
+keepalived:stable
