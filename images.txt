@@ -1,1 +1,1 @@
-osixia/keepalived:latest
+osixia/keepalived:stable
