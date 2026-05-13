@@ -1,1 +1,1 @@
-registry:2
+osixia/keepalived:stable
