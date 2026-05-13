@@ -1,1 +1,1 @@
-keepalived:stable
+nginx:latest
