@@ -1,1 +1,1 @@
-nginx:latest
+osixia/keepalived:latest
