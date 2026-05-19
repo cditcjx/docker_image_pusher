@@ -1,1 +1,2 @@
-osixia/keepalived:stable
+fossology/fossology:latest
+postgres:16
