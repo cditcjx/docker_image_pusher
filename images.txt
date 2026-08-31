@@ -1,1 +1,1 @@
-grafana:13.1.1
+grafana/grafana:13.1.1
